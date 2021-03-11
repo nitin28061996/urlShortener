@@ -35,3 +35,6 @@ This project needs the BITLY TOKEN and MONGODB ATLAS CLUSTER Link. The environme
 
 
 
+## Output
+
+![Alt text](output1.png?raw=true "Output")
