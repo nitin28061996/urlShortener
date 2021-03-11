@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 This project is made as part of Rethink Coding Challenge. This URL Shortening app uses React, Node.js, Bitly API and MongoDB Cloud(Atlas).
 
@@ -29,7 +29,7 @@ Instal the node modules
 ### 2. `npm run devStart`
 
 Runs the app in the development mode.\
-The server runs at [http://localhost:3200]. Logs the server running port and Mongodb connection status.
+The server runs at [http://localhost:3200](http://localhost:3000). Logs the server running port and Mongodb connection status.
 
 This project needs the BITLY TOKEN and MONGODB ATLAS CLUSTER Link. The environment variables can be found in .env.example file and values can be found in the email.
 
